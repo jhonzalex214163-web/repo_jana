@@ -1,0 +1,1 @@
+repositorio creado el dia 06/04/2026 con el objetivo de conocer los comandos basicos de git
